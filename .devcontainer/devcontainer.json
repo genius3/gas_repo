@@ -1,0 +1,6 @@
+{
+    "name": "GAS_Scripts",
+    "build" : {
+        "dockerfile": "Dockerfile"
+    }
+}
